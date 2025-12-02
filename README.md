@@ -1,6 +1,6 @@
 # aoc-2025
 
-My solutions for [Advent of Code 2025](https://adventofcode.com/2025) in **[Nim](https://nim-lang.org/)**.
+My solutions for [Advent of Code 2025](https://adventofcode.com/2025) in [Nim](https://nim-lang.org/).
 
 ## Execution times
 
@@ -15,8 +15,8 @@ Libraries used:
 
 | Day    | Time (ms) |
 |--------|-----------|
-| Day 1  |           |
-| Day 2  |           |
+| Day 1  |   0.6 ms  |
+| Day 2  |  279.3 ms |
 | Day 3  |           |
 | Day 4  |           |
 | Day 5  |           |
@@ -28,7 +28,7 @@ Libraries used:
 | Day 11 |           |
 | Day 12 |           |
 
-Ranking for all 50 stars: ?
+Ranking for all stars: ?
 
 Total runtime (for all ? days): ?
 
