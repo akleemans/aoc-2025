@@ -19,7 +19,7 @@ Libraries used:
 | Day 2  |  279.3 ms |
 | Day 3  |    2.1 ms |
 | Day 4  |    6.4 ms |
-| Day 5  |           |
+| Day 5  |    0.2 ms |
 | Day 6  |           |
 | Day 7  |           |
 | Day 8  |           |
