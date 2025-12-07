@@ -43,3 +43,6 @@ type Pair = tuple[first: int, second: int]
 for i in countdown(4, 0):
     echo i
 
+# Wait for input
+let line = readLine(stdin)
+echo "You wrote ", line

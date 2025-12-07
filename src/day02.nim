@@ -59,7 +59,7 @@ proc part2(data: seq[string]): int =
     return invalid_sum
 
 proc main() =
-    var data = strip(readFile("../inputs/day02.txt")).splitLines()
+    var data = strip(readFile("./inputs/day02.txt")).splitLines()
 
     let part1TestResult = part1(testData)
     doAssert part1TestResult == 1227775554
@@ -71,5 +71,5 @@ proc main() =
     let part2Result = part2(data)
     doAssert part2Result == 31680313976
 
-timeIt "day02":
+timeIt "timeIt":
     main()

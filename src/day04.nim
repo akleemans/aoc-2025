@@ -74,6 +74,5 @@ proc main() =
     let part2Result = part2(data)
     doAssert part2Result == 9050
 
-
-timeIt "day02":
+timeIt "timeIt":
     main()

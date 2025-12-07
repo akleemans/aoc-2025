@@ -21,7 +21,7 @@ Libraries used:
 | Day 4  |    6.4 ms |
 | Day 5  |    0.2 ms |
 | Day 6  |    0.5 ms |
-| Day 7  |           |
+| Day 7  |    0.1 ms |
 | Day 8  |           |
 | Day 9  |           |
 | Day 10 |           |

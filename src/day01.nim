@@ -52,7 +52,7 @@ proc part2(data: seq[string]): int =
     return pw
 
 proc main() =
-    var data = strip(readFile("../inputs/day01.txt")).splitLines()
+    var data = strip(readFile("./inputs/day01.txt")).splitLines()
 
     let part1TestResult = part1(testData)
     doAssert part1TestResult == 3
@@ -64,5 +64,5 @@ proc main() =
     let part2Result = part2(data)
     doAssert part2Result == 5872
 
-timeIt "day01":
+timeIt "timeIt":
     main()

@@ -72,5 +72,5 @@ proc main() =
     doAssert part2Result == 172162399742349
 
 
-timeIt "day02":
+timeIt "timeIt":
     main()
